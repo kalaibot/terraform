@@ -1,0 +1,2 @@
+bucket = "uswest2backend"
+prefix = "terraform/tfstatefiles/gardener.uswest2.stage1.tfstate
